@@ -79,7 +79,9 @@ If you're ready to get started, reach out to any of the following people:
 
 ### Medical Professionals
 
-// No idea what to put here, I know we need these people though
+//Medical Professionals
+Save lives by bringing about more effective rapid case identification and containment. We're looking for people who can help us with medical workflows, clinic functions, testing and and peer review.  Whether your expertise is running a gel or running an ICU your knowledge is needed to help bring this system online quickly  and to ensure best clinical utility.
+
 
 Interested in becoming the team lead? Reach out on the [Zerobase Slack](https://necsi-edu.slack.com/archives/CV57RBU8H), we'd love to 
 have you.
